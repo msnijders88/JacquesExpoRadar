@@ -1,0 +1,41 @@
+name: Wekelijkse expo-update
+
+on:
+  schedule:
+    # Elke maandag om 07:00 UTC (= 08:00 of 09:00 NL-tijd, afh. van zomer/wintertijd)
+    - cron: "0 7 * * 1"
+  workflow_dispatch: {}   # handmatig te starten via de Actions-tab, handig om te testen
+
+permissions:
+  contents: write   # nodig om state.json terug te committen
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo uitchecken
+        uses: actions/checkout@v4
+
+      - name: Python opzetten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
+
+      - name: Agent draaien
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python agent.py
+
+      - name: Bijgewerkte state.json committen
+        run: |
+          git config user.name "expo-agent-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --quiet --cached || git commit -m "Update state.json [skip ci]"
+          git push
