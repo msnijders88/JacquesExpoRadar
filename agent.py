@@ -1,4 +1,3 @@
-Python
 import json
 import os
 import smtplib
