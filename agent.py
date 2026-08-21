@@ -22,13 +22,9 @@ def get_new_exhibitions():
     }
     """
     
-response = client.messages.create(
+    response = client.messages.create(
         model="claude-3-5-sonnet-20241022",
         max_tokens=2000,
-        tools=[{
-            "type": "web_search_20260318",
-            "name": "web_search_20260318"
-        }],
         messages=[{"role": "user", "content": prompt}]
     )
     
@@ -72,7 +68,6 @@ def send_email(new_items):
 
     body = "Hier zijn de nieuw gevonden tentoonstellingen:\n\n"
     for item in new_items:
-        # Veilige checks met defaults als Claude andere namen gebruikt
         title = item.get("title", "Onbekende titel")
         location = item.get("location") or item.get("venue") or item.get("city", "")
         description = item.get("description") or item.get("summary", "")
@@ -82,15 +77,11 @@ def send_email(new_items):
 
     msg.attach(MIMEText(body, "plain"))
 
-    try:
-        with smtplib.SMTP(smtp_host, smtp_port) as server:
-            server.starttls()
-            server.login(smtp_user, smtp_pass)
-            server.send_message(msg)
-        print("E-mail succesvol verzonden!")
-    except Exception as e:
-        print(f"Fout bij versturen van e-mail: {e}")
-        raise e
+    with smtplib.SMTP(smtp_host, smtp_port) as server:
+        server.starttls()
+        server.login(smtp_user, smtp_pass)
+        server.send_message(msg)
+    print("E-mail succesvol verzonden!")
 
 def main():
     print("Ophalen van tentoonstellingen...")
@@ -99,7 +90,6 @@ def main():
     previous_state = load_state()
     previous_urls = {item.get("url") for item in previous_state if "url" in item}
 
-    # Filter items op basis van unieke URL
     new_items = [item for item in current_items if item.get("url") not in previous_urls]
 
     if new_items:
@@ -108,7 +98,6 @@ def main():
     else:
         print("Geen nieuwe expo's gevonden deze week.")
 
-    # Geheugen bijwerken
     all_known = {item.get("url"): item for item in previous_state + current_items if "url" in item}
     save_state(list(all_known.values()))
     print("State succesvol bijgewerkt.")
