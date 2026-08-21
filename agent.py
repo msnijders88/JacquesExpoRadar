@@ -22,10 +22,13 @@ def get_new_exhibitions():
     }
     """
     
-    response = client.messages.create(
+response = client.messages.create(
         model="claude-3-5-sonnet-20241022",
         max_tokens=2000,
-        tools=[{"type": "web_search", "name": "web_search"}],
+        tools=[{
+            "type": "web_search_20260318",
+            "name": "web_search_20260318"
+        }],
         messages=[{"role": "user", "content": prompt}]
     )
     
