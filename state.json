@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "Tentoonstelling Amsterdamse Architectuurprijs 2026",
+    "location": "Arcam, Amsterdam",
+    "url": "https://arcam.nl/events/tentoonstelling-amsterdamse-architectuurprijs-2026/",
+    "description": "Expositie met de tien genomineerde projecten voor de titel beste gebouw van Amsterdam, te zien met fotografie, maquettes en filmfragmenten tot en met 30 augustus 2026."
+  },
+  {
+    "title": "IABR 2026: Systems of Support",
+    "location": "Piekfabriek (Hunter Douglas-terrein), Rotterdam",
+    "url": "https://www.architectuur.nl/nieuws/internationale-architectuur-biennale-rotterdam/",
+    "description": "De twaalfde editie van de Internationale Architectuur Bi\u00ebnnale Rotterdam onderzoekt welke economische, ecologische en maatschappelijke systemen onze gebouwde omgeving vormgeven, van 18 september tot en met 29 november 2026."
+  },
+  {
+    "title": "Nieuw binnen #2. Work in Progress",
+    "location": "Nieuwe Instituut, Rotterdam",
+    "url": "https://nieuweinstituut.nl/",
+    "description": "Presentatie van dertien recente aanwinsten die zijn opgenomen in de Rijkscollectie voor Nederlandse Architectuur en Stedenbouw."
+  },
+  {
+    "title": "Geen eigen huis. Wonen in crisis",
+    "location": "Museum Het Schip, Amsterdam",
+    "url": "https://www.iamsterdam.com/uit/tentoonstellingen/tips-deze-maand",
+    "description": "Tentoonstelling over 125 jaar volkshuisvesting die de geschiedenis van de woningcrisis in Nederland belicht, te zien van 14 augustus tot en met 11 oktober 2026."
+  },
+  {
+    "title": "Nationale Archiprix 2026",
+    "location": "TU Delft, Delft",
+    "url": "https://www.tudelft.nl/evenementen/2026/bk/tentoonstelling-nationale-archiprix-2026",
+    "description": "Tentoonstelling met de beste afstudeerprojecten van Nederlandse masteropleidingen in Architectuur, Stedenbouw, Interieurarchitectuur en Landschapsarchitectuur."
+  },
+  {
+    "title": "Dag van de Architectuur 2026: De solidaire samenleving",
+    "location": "SCHUNCK, Heerlen",
+    "url": "https://schunck.nl/museum/agenda/dag-van-de-architectuur-2026",
+    "description": "Landelijk architectuurevenement met lezingen, debatten, tentoonstellingen en excursies rondom het thema collectieve ruimtes en stedelijke ontwikkeling."
+  },
+  {
+    "title": "Wild Summer of Art 2026: The Treasure Hunt Edition",
+    "location": "Brutus Art Space, Rotterdam",
+    "url": "https://www.vogue.nl/cultuur/art-en-design/tentoonstellingen-in-nederland/",
+    "description": "Zomerse groepstentoonstelling in een voormalig industrieel pand in Rotterdam met hedendaagse kunst."
+  },
+  {
+    "title": "ATLAS",
+    "location": "De Pont Museum, Tilburg",
+    "url": "https://www.yourlittleblackbook.me/en/museumagenda-nederland-nieuwe-tentoonstellingen-2026/",
+    "description": "Tentoonstelling te zien tot en met 30 augustus 2026 in het hedendaagse kunstmuseum De Pont."
+  }
+]
