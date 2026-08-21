@@ -7,6 +7,7 @@ from anthropic import Anthropic
 
 client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
+
 def get_new_exhibitions():
     prompt = """
     Zoek actuele galerie- en architectuurtentoonstellingen in Nederland op. 
@@ -21,25 +22,25 @@ def get_new_exhibitions():
         "description": "Korte beschrijving van 1-2 zinnen"
     }
     """
-    
+
     response = client.messages.create(
-        model="claude-3-5-sonnet-20240620",
-        max_tokens=2000,
+        model="claude-sonnet-5",
+        max_tokens=4096,
+        tools=[{"type": "web_search_20250305", "name": "web_search"}],
         messages=[{"role": "user", "content": prompt}]
     )
-    
+
     text_content = ""
     for block in response.content:
         if block.type == "text":
             text_content += block.text
-
     clean_json = text_content.strip()
     if clean_json.startswith("```json"):
         clean_json = clean_json[7:-3].strip()
     elif clean_json.startswith("```"):
         clean_json = clean_json[3:-3].strip()
-
     return json.loads(clean_json)
+
 
 def load_state():
     if os.path.exists("state.json"):
@@ -50,9 +51,11 @@ def load_state():
                 return []
     return []
 
+
 def save_state(state):
     with open("state.json", "w") as f:
         json.dump(state, f, indent=2)
+
 
 def send_email(new_items):
     smtp_host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
@@ -72,7 +75,6 @@ def send_email(new_items):
         location = item.get("location") or item.get("venue") or item.get("city", "")
         description = item.get("description") or item.get("summary", "")
         url = item.get("url", "#")
-
         body += f"• {title} - {location}\n  {description}\n  Link: {url}\n\n"
 
     msg.attach(MIMEText(body, "plain"))
@@ -81,15 +83,16 @@ def send_email(new_items):
         server.starttls()
         server.login(smtp_user, smtp_pass)
         server.send_message(msg)
+
     print("E-mail succesvol verzonden!")
+
 
 def main():
     print("Ophalen van tentoonstellingen...")
     current_items = get_new_exhibitions()
-    
+
     previous_state = load_state()
     previous_urls = {item.get("url") for item in previous_state if "url" in item}
-
     new_items = [item for item in current_items if item.get("url") not in previous_urls]
 
     if new_items:
@@ -101,6 +104,7 @@ def main():
     all_known = {item.get("url"): item for item in previous_state + current_items if "url" in item}
     save_state(list(all_known.values()))
     print("State succesvol bijgewerkt.")
+
 
 if __name__ == "__main__":
     main()
