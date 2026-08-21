@@ -23,7 +23,7 @@ def get_new_exhibitions():
     """
     
     response = client.messages.create(
-        model="claude-3-haiku-20240307",
+        model="claude-3-5-sonnet-20240620",
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
     )
