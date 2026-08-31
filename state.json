@@ -18,16 +18,16 @@
     "description": "Presentatie van dertien recente aanwinsten die zijn opgenomen in de Rijkscollectie voor Nederlandse Architectuur en Stedenbouw."
   },
   {
-    "title": "Geen eigen huis. Wonen in crisis",
+    "title": "Geen eigen huis: Wonen in crisis",
     "location": "Museum Het Schip, Amsterdam",
     "url": "https://www.iamsterdam.com/uit/tentoonstellingen/tips-deze-maand",
-    "description": "Tentoonstelling over 125 jaar volkshuisvesting die de geschiedenis van de woningcrisis in Nederland belicht, te zien van 14 augustus tot en met 11 oktober 2026."
+    "description": "Tentoonstelling over 125 jaar volkshuisvesting in Nederland, met kunst, archiefbeelden en verhalen over de aanhoudende woningcrisis."
   },
   {
     "title": "Nationale Archiprix 2026",
     "location": "TU Delft, Delft",
     "url": "https://www.tudelft.nl/evenementen/2026/bk/tentoonstelling-nationale-archiprix-2026",
-    "description": "Tentoonstelling met de beste afstudeerprojecten van Nederlandse masteropleidingen in Architectuur, Stedenbouw, Interieurarchitectuur en Landschapsarchitectuur."
+    "description": "Overzicht van de beste Nederlandse afstudeerprojecten op het gebied van architectuur, stedenbouw, interieurarchitectuur en landschapsarchitectuur."
   },
   {
     "title": "Dag van de Architectuur 2026: De solidaire samenleving",
@@ -42,9 +42,27 @@
     "description": "Zomerse groepstentoonstelling in een voormalig industrieel pand in Rotterdam met hedendaagse kunst."
   },
   {
-    "title": "ATLAS",
-    "location": "De Pont Museum, Tilburg",
+    "title": "Walking Museum",
+    "location": "Groninger Museum, Groningen",
     "url": "https://www.yourlittleblackbook.me/en/museumagenda-nederland-nieuwe-tentoonstellingen-2026/",
-    "description": "Tentoonstelling te zien tot en met 30 augustus 2026 in het hedendaagse kunstmuseum De Pont."
+    "description": "Het museum verplaatst zich naar buiten met fietstochten, een reizende caravan en buitenexpo's door stad en landschap."
+  },
+  {
+    "title": "Flowers Forever",
+    "location": "Kunsthal, Rotterdam",
+    "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
+    "description": "Tentoonstelling met meer dan tweehonderd objecten uit kunst, design, mode en wetenschap rond het thema bloemen."
+  },
+  {
+    "title": "Magali Reus",
+    "location": "Beelden aan Zee, Den Haag",
+    "url": "https://www.avrotros.nl/longread/deze-tentoonstellingen-in-2026-wil-je-niet-missen~89/",
+    "description": "Overzicht van recent werk van de Nederlandse kunstenaar Magali Reus, waaronder haar bekende Merlin-serie sculpturen."
+  },
+  {
+    "title": "IMPAKT-tentoonstelling over uitsluiting en hedendaagse kunst",
+    "location": "IMPAKT, Utrecht",
+    "url": "https://www.avrotros.nl/longread/3-x-nieuwe-tentoonstellingen-in-augustus-2026~98/",
+    "description": "Vanuit de geschiedenis van heksenvervolgingen onderzoekt deze tentoonstelling uitsluiting, met hedendaagse kunst over magie, zorg en verbondenheid."
   }
 ]
