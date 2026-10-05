@@ -12,10 +12,10 @@
     "description": "De twaalfde editie van de Internationale Architectuur Bi\u00ebnnale Rotterdam onderzoekt welke economische, ecologische en maatschappelijke systemen onze gebouwde omgeving vormgeven, van 18 september tot en met 29 november 2026."
   },
   {
-    "title": "Nieuw binnen #2",
-    "location": "Nieuwe Instituut, Rotterdam",
+    "title": "(Un)Authorised: Alternative Records of the Built Environment",
+    "location": "Nieuwe Instituut (AFFR), Rotterdam",
     "url": "https://nieuweinstituut.nl/",
-    "description": "Presentatie van dertien recente aanwinsten die zijn opgenomen in de Rijkscollectie voor Nederlandse Architectuur en Stedenbouw."
+    "description": "Tweede immersieve mediaprogramma van het Architecture Film Festival Rotterdam, geopend op 8 oktober 2026."
   },
   {
     "title": "Geen eigen huis: Wonen in crisis",
@@ -48,10 +48,10 @@
     "description": "Het museum verplaatst zich naar buiten met fietstochten, een reizende caravan en buitenexpo's door stad en landschap."
   },
   {
-    "title": "Flowers Forever",
+    "title": "Getekend: Rotterdam!",
     "location": "Kunsthal, Rotterdam",
     "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
-    "description": "Tentoonstelling met meer dan tweehonderd objecten uit kunst, design, mode en wetenschap rond het thema bloemen."
+    "description": "Fotografische en architectonische verkenning van het nachtelijke Rotterdam, van 17 oktober 2026 tot 7 februari 2027."
   },
   {
     "title": "Magali Reus",
@@ -75,7 +75,7 @@
     "title": "SLIDE (2026) door Afaina de Jong",
     "location": "Van Eesteren Museum, Amsterdam",
     "url": "https://www.vaneesterenmuseum.nl/en",
-    "description": "Een architectuurinstallatie van ontwerper Afaina de Jong, te bezichtigen van 1 juli tot en met 31 oktober 2026 in het Van Eesteren Museum."
+    "description": "Architectuurinstallatie te zien van 1 juli tot en met 31 oktober 2026 in het museum voor architectuur en stedenbouw in Amsterdam Nieuw-West."
   },
   {
     "title": "Kunst of Art",
@@ -142,5 +142,23 @@
     "location": "Kunstmuseum Den Haag, Den Haag",
     "url": "https://www.kunstmuseum.nl/nl/tentoonstellingen",
     "description": "Nieuwe tentoonstelling in het Kunstmuseum Den Haag, te zien van 19 september 2026 tot en met 23 mei 2027."
+  },
+  {
+    "title": "Klein, Kleiner, Kleinst",
+    "location": "ABC Architectuurcentrum Haarlem, Haarlem",
+    "url": "https://architectuurhaarlem.nl/exposities",
+    "description": "Expositie over diverse woonvormen met een bescheiden omvang, als reactie op de groeiende trend van woningen onder de 50 m\u00b2."
+  },
+  {
+    "title": "Just In #2: Work in Progress",
+    "location": "Nieuwe Instituut, Rotterdam",
+    "url": "https://nieuweinstituut.nl/en/pages/now-on-display",
+    "description": "Presentatie van dertien recente aanwinsten voor de Rijkscollectie voor Nederlandse Architectuur en Stedenbouw, te zien tot 7 november 2026."
+  },
+  {
+    "title": "Macho Mystic Meltdown: Subtracted Anthology",
+    "location": "1646, Den Haag",
+    "url": "http://kunstinzicht.nl/",
+    "description": "Hedendaagse kunsttentoonstelling in kunstruimte 1646, te zien tot en met 1 november 2026."
   }
 ]
