@@ -12,10 +12,10 @@
     "description": "De twaalfde editie van de Internationale Architectuur Bi\u00ebnnale Rotterdam onderzoekt welke economische, ecologische en maatschappelijke systemen onze gebouwde omgeving vormgeven, van 18 september tot en met 29 november 2026."
   },
   {
-    "title": "(Un)Authorised: Alternative Records of the Built Environment",
-    "location": "Nieuwe Instituut (AFFR), Rotterdam",
+    "title": "(Un)Authorised. Alternative Records of the Built Environment / AFFR 2026",
+    "location": "Nieuwe Instituut, Rotterdam",
     "url": "https://nieuweinstituut.nl/",
-    "description": "Tweede immersieve mediaprogramma van het Architecture Film Festival Rotterdam, geopend op 8 oktober 2026."
+    "description": "Architectuurtentoonstelling over alternatieve archieven van de gebouwde omgeving, te zien tot en met 24 oktober 2026, als onderdeel van het AFFR-programma."
   },
   {
     "title": "Geen eigen huis: Wonen in crisis",
@@ -30,10 +30,10 @@
     "description": "Overzicht van de beste Nederlandse afstudeerprojecten op het gebied van architectuur, stedenbouw, interieurarchitectuur en landschapsarchitectuur."
   },
   {
-    "title": "Dag van de Architectuur 2026: De solidaire samenleving",
+    "title": "Modernisme in beweging: van Glaspaleis tot Parkstad",
     "location": "SCHUNCK, Heerlen",
     "url": "https://schunck.nl/museum/agenda/dag-van-de-architectuur-2026",
-    "description": "Landelijk architectuurevenement met lezingen, debatten, tentoonstellingen en excursies rondom het thema collectieve ruimtes en stedelijke ontwikkeling."
+    "description": "Semipermanente architectuurtentoonstelling over de modernistische geschiedenis van het Glaspaleis en de regio Parkstad, onderdeel van het vaste architectuurprogramma van SCHUNCK."
   },
   {
     "title": "Wild Summer of Art 2026: The Treasure Hunt Edition",
@@ -48,16 +48,16 @@
     "description": "Het museum verplaatst zich naar buiten met fietstochten, een reizende caravan en buitenexpo's door stad en landschap."
   },
   {
-    "title": "Getekend: Rotterdam!",
+    "title": "Signac: Symphony of Colours",
     "location": "Kunsthal, Rotterdam",
     "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
-    "description": "Fotografische en architectonische verkenning van het nachtelijke Rotterdam, van 17 oktober 2026 tot 7 februari 2027."
+    "description": "Groot overzicht van het werk van Paul Signac (1863\u20131935), te zien vanaf 24 oktober 2026 tot en met 28 februari 2027, aangeprezen als de must-see expositie van het najaar."
   },
   {
-    "title": "Magali Reus",
-    "location": "Beelden aan Zee, Den Haag",
+    "title": "Yves Klein en zijn kunstenaarsfamilie: Frits, Marie, Rotraut",
+    "location": "Stedelijk Museum Schiedam, Schiedam",
     "url": "https://www.avrotros.nl/longread/deze-tentoonstellingen-in-2026-wil-je-niet-missen~89/",
-    "description": "Overzicht van recent werk van de Nederlandse kunstenaar Magali Reus, waaronder haar bekende Merlin-serie sculpturen."
+    "description": "Tentoonstelling waarin het werk van Yves Klein samen met dat van zijn ouders Frits en Marie en zijn vrouw Rotraut wordt getoond, van 21 maart tot en met 25 oktober 2026."
   },
   {
     "title": "IMPAKT-tentoonstelling over uitsluiting en hedendaagse kunst",
@@ -75,7 +75,7 @@
     "title": "SLIDE (2026) door Afaina de Jong",
     "location": "Van Eesteren Museum, Amsterdam",
     "url": "https://www.vaneesterenmuseum.nl/en",
-    "description": "Architectuurinstallatie te zien van 1 juli tot en met 31 oktober 2026 in het museum voor architectuur en stedenbouw in Amsterdam Nieuw-West."
+    "description": "Architectuur- en stedenbouwexpositie in Amsterdam Nieuw-West, lopend van 1 juli tot en met 31 oktober 2026, gericht op het erfgoed van de Tuinsteden en Cornelis van Eesteren."
   },
   {
     "title": "Kunst of Art",
@@ -138,10 +138,10 @@
     "description": "Internationale sculpturenexpositie tussen de bomen in Tilburg, te zien tot en met 27 september 2026."
   },
   {
-    "title": "Kunstmuseum Den Haag \u2013 actuele tentoonstelling",
+    "title": "Mondriaan & De weg naar abstractie",
     "location": "Kunstmuseum Den Haag, Den Haag",
     "url": "https://www.kunstmuseum.nl/nl/tentoonstellingen",
-    "description": "Nieuwe tentoonstelling in het Kunstmuseum Den Haag, te zien van 19 september 2026 tot en met 23 mei 2027."
+    "description": "Tentoonstelling over de ontwikkeling van Piet Mondriaan richting abstractie, onderdeel van het lopende programma van het Kunstmuseum Den Haag."
   },
   {
     "title": "Klein, Kleiner, Kleinst",
@@ -160,5 +160,17 @@
     "location": "1646, Den Haag",
     "url": "http://kunstinzicht.nl/",
     "description": "Hedendaagse kunsttentoonstelling in kunstruimte 1646, te zien tot en met 1 november 2026."
+  },
+  {
+    "title": "Willem de Kooning at Work",
+    "location": "Rijksmuseum, Amsterdam",
+    "url": "https://www.rijksmuseum.nl/nl/pers/persberichten/programma/story/programma-2026",
+    "description": "Overzichtstentoonstelling van circa 120 werken die de artistieke ontwikkeling van De Kooning volgt vanaf zijn reis van Nederland naar New York, van 9 oktober 2026 tot en met 17 januari 2027."
+  },
+  {
+    "title": "Marisol",
+    "location": "Depot Museum Boijmans Van Beuningen, Rotterdam",
+    "url": "https://kunstvensters.com/2026/10/01/10-tentoonstellingen-die-je-niet-wil-missen-in-oktober-2026/",
+    "description": "Expositie over de Venezolaans-Amerikaanse kunstenaar Marisol met houten figuren, onderwaterwezens en tekeningen, lopend van 9 oktober 2026 tot en met 29 maart 2027."
   }
 ]
