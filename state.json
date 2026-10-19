@@ -6,16 +6,16 @@
     "description": "Expositie met de tien genomineerde projecten voor de titel beste gebouw van Amsterdam, te zien met fotografie, maquettes en filmfragmenten tot en met 30 augustus 2026."
   },
   {
-    "title": "IABR 2026: Systems of Support",
-    "location": "Piekfabriek (Hunter Douglas-terrein), Rotterdam",
+    "title": "Systems of Support \u2013 IABR 2026",
+    "location": "Internationale Architectuur Bi\u00ebnnale Rotterdam, De Piekfabriek, Rotterdam",
     "url": "https://www.architectuur.nl/nieuws/internationale-architectuur-biennale-rotterdam/",
-    "description": "De twaalfde editie van de Internationale Architectuur Bi\u00ebnnale Rotterdam onderzoekt welke economische, ecologische en maatschappelijke systemen onze gebouwde omgeving vormgeven, van 18 september tot en met 29 november 2026."
+    "description": "De twaalfde editie van de IABR draait om de systemen die ons dagelijks leven mogelijk maken, van water en energie tot wonen en infrastructuur. De tentoonstelling is te bezoeken van 18 september tot en met 29 november 2026 op het voormalige Hunter Douglas-terrein."
   },
   {
-    "title": "(Un)Authorised. Alternative Records of the Built Environment / AFFR 2026",
+    "title": "(Un)Authorised. Alternative Records of the Built Environment",
     "location": "Nieuwe Instituut, Rotterdam",
     "url": "https://nieuweinstituut.nl/",
-    "description": "Architectuurtentoonstelling over alternatieve archieven van de gebouwde omgeving, te zien tot en met 24 oktober 2026, als onderdeel van het AFFR-programma."
+    "description": "Onderdeel van het Architectuur Film Festival Rotterdam (AFFR) met werken die alternatieve, meerstemmige manieren tonen van kijken naar de gebouwde omgeving. Te zien tot en met 24 oktober 2026 in het Nieuwe Instituut."
   },
   {
     "title": "Geen eigen huis: Wonen in crisis",
@@ -75,7 +75,7 @@
     "title": "SLIDE (2026) door Afaina de Jong",
     "location": "Van Eesteren Museum, Amsterdam",
     "url": "https://www.vaneesterenmuseum.nl/en",
-    "description": "Architectuur- en stedenbouwexpositie in Amsterdam Nieuw-West, lopend van 1 juli tot en met 31 oktober 2026, gericht op het erfgoed van de Tuinsteden en Cornelis van Eesteren."
+    "description": "Architectuur- en stedenbouwtentoonstelling van het Van Eesteren Museum in Amsterdam Nieuw-West, te zien van 1 juli tot en met 31 oktober 2026."
   },
   {
     "title": "Kunst of Art",
@@ -144,10 +144,10 @@
     "description": "Tentoonstelling over de ontwikkeling van Piet Mondriaan richting abstractie, onderdeel van het lopende programma van het Kunstmuseum Den Haag."
   },
   {
-    "title": "Klein, Kleiner, Kleinst",
-    "location": "ABC Architectuurcentrum Haarlem, Haarlem",
+    "title": "RASTER \u2013 Lies Rollmann",
+    "location": "ABC Architectuurcentrum Haarlem",
     "url": "https://architectuurhaarlem.nl/exposities",
-    "description": "Expositie over diverse woonvormen met een bescheiden omvang, als reactie op de groeiende trend van woningen onder de 50 m\u00b2."
+    "description": "Het ABC architectuurcentrum Haarlem presenteert keramisch werk van architect en keramist Lies Rollmann, te zien van 5 september tot en met 1 november 2026 in de kunstgang van het centrum."
   },
   {
     "title": "Just In #2: Work in Progress",
@@ -172,5 +172,29 @@
     "location": "Depot Museum Boijmans Van Beuningen, Rotterdam",
     "url": "https://kunstvensters.com/2026/10/01/10-tentoonstellingen-die-je-niet-wil-missen-in-oktober-2026/",
     "description": "Expositie over de Venezolaans-Amerikaanse kunstenaar Marisol met houten figuren, onderwaterwezens en tekeningen, lopend van 9 oktober 2026 tot en met 29 maart 2027."
+  },
+  {
+    "title": "Expo Atelier2100",
+    "location": "Arcam, Amsterdam",
+    "url": "https://arcam.nl/bezoek/agenda/",
+    "description": "Lopende tentoonstelling bij architectuurcentrum Arcam, te zien van 11 september tot en met 7 november 2026."
+  },
+  {
+    "title": "Luchtwortels \u2013 Feit en fictie in landschappen op hoogte",
+    "location": "Arcam, Amsterdam",
+    "url": "https://nvtl.nl/en/agenda/arcam-openingssymposium-en-tentoonstelling-lunchwortels/",
+    "description": "De tentoonstelling laat zien hoe architecten, landschapsarchitecten en andere ontwerpers de afgelopen tien jaar hebben gezocht naar antwoorden op het vergroenen van hoogbouw. De expositie opende op 9 oktober 2026 en loopt tot en met 3 maart 2027."
+  },
+  {
+    "title": "Dudok x Gispen \u2013 110 jaar Gispen in Gebouwen",
+    "location": "Dudok Architectuur Centrum, Hilversum",
+    "url": "https://dudok.org/dudok-en-gispen/",
+    "description": "Aan de hand van iconische gebouwen neemt de tentoonstelling bezoekers mee door ruim een eeuw designgeschiedenis en de samenwerking tussen meubelmerk Gispen en architect Willem Marinus Dudok. Te zien van 9 oktober 2026 tot en met 4 april 2027 in het Raadhuis van Hilversum."
+  },
+  {
+    "title": "Open Call expositieruimte",
+    "location": "Galerie du Nord, Amsterdam-Noord",
+    "url": "https://www.galeriedunord-amsterdam.nl/",
+    "description": "Galerie du Nord opent haar expositieruimte voor een open call, waarbij kunstenaars zich per week kunnen aanmelden om (tijdelijk) te exposeren. De periode loopt van 25 september tot en met 1 november 2026."
   }
 ]
