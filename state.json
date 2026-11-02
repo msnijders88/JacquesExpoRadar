@@ -12,10 +12,10 @@
     "description": "De twaalfde editie van de IABR draait om de systemen die ons dagelijks leven mogelijk maken, van water en energie tot wonen en infrastructuur. De tentoonstelling is te bezoeken van 18 september tot en met 29 november 2026 op het voormalige Hunter Douglas-terrein."
   },
   {
-    "title": "(Un)Authorised. Alternative Records of the Built Environment",
+    "title": "Prix de Rome Architectuur 2026",
     "location": "Nieuwe Instituut, Rotterdam",
     "url": "https://nieuweinstituut.nl/",
-    "description": "Onderdeel van het Architectuur Film Festival Rotterdam (AFFR) met werken die alternatieve, meerstemmige manieren tonen van kijken naar de gebouwde omgeving. Te zien tot en met 24 oktober 2026 in het Nieuwe Instituut."
+    "description": "<cite index=\"5-5\">Toont de inzendingen van de vier genomineerden voor deze prestigieuze architectuurprijs, vanaf 4 december te zien.</cite>"
   },
   {
     "title": "Geen eigen huis: Wonen in crisis",
@@ -48,10 +48,10 @@
     "description": "Het museum verplaatst zich naar buiten met fietstochten, een reizende caravan en buitenexpo's door stad en landschap."
   },
   {
-    "title": "Signac: Symphony of Colours",
+    "title": "Signac \u2013 Symphony of Colours",
     "location": "Kunsthal, Rotterdam",
     "url": "https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/",
-    "description": "Groot overzicht van het werk van Paul Signac (1863\u20131935), te zien vanaf 24 oktober 2026 tot en met 28 februari 2027, aangeprezen als de must-see expositie van het najaar."
+    "description": "<cite index=\"7-7,7-8\">De must-see tentoonstelling van het najaar: vanaf 24 oktober ervaar je in de Kunsthal een indrukwekkend overzicht van Paul Signac (1863\u20131935).</cite>"
   },
   {
     "title": "Yves Klein en zijn kunstenaarsfamilie: Frits, Marie, Rotraut",
@@ -196,5 +196,29 @@
     "location": "Galerie du Nord, Amsterdam-Noord",
     "url": "https://www.galeriedunord-amsterdam.nl/",
     "description": "Galerie du Nord opent haar expositieruimte voor een open call, waarbij kunstenaars zich per week kunnen aanmelden om (tijdelijk) te exposeren. De periode loopt van 25 september tot en met 1 november 2026."
+  },
+  {
+    "title": "Systems Of Support \u2013 IABR 2026",
+    "location": "De Piekfabriek (Hunter Douglas-terrein), Rotterdam",
+    "url": "https://www.ruimtelijkeordening.nl/actueel/agenda/2026/09/17/internationale-architectuur-biennale-rotterdam-2026",
+    "description": "<cite index=\"6-3,6-4\">Eens in de twee jaar organiseert de Internationale Architectuur Bi\u00ebnnale Rotterdam (IABR) een tentoonstelling, dit jaar getiteld Systems Of Support, die draait om de systemen die ons dagelijks leven mogelijk maken: van water, energie en materialen tot wonen en infrastructuur.</cite> <cite index=\"6-5\">De tentoonstelling is tussen 18 september en 29 november te bezoeken.</cite>"
+  },
+  {
+    "title": "The Architect & The Housewife: Cleaning the House, Building the Future",
+    "location": "Groninger Museum, Groningen",
+    "url": "https://www.architectuur.nl/nieuws/vier-nieuwe-tentoonstellingen-in-groninger-museum/",
+    "description": "<cite index=\"3-3\">Op vrijdag 18 september opende Groninger Museum een nieuw artistiek hoofdstuk met vier onderling verbonden tentoonstellingen.</cite> <cite index=\"3-4\">Met de nieuwe artistieke koers grijpt het museum terug op drie kernwaarden die in het markante postmoderne gebouw te vinden zijn: collectief, interdisciplinair en experimenteel.</cite>"
+  },
+  {
+    "title": "Slavs and Tatars: Mouthfool",
+    "location": "Fenix, Rotterdam",
+    "url": "https://www.avrotros.nl/longread/4-x-nieuwe-tentoonstelling-in-november-2026~101/",
+    "description": "Nieuwe tentoonstelling bij Fenix Rotterdam. <cite index=\"11-8\">Museum: Fenix, Locatie: Rotterdam, te zien van 19 november 2026 t/m 9 mei 2027.</cite>"
+  },
+  {
+    "title": "Galerie-exposities (actueel overzicht)",
+    "location": "Diverse galeries, Nederland",
+    "url": "https://www.kunstinzicht.nl/kunst/agenda/index.html",
+    "description": "<cite index=\"16-2\">Actuele exposities bij onder meer Galerie Maurits van de Laar (Nour-Eddine Jarram, t/m 15-11-2026) en Galerie DNA (VUES NATURELLES & DE KEUS VAN DNA, t/m 14-11-2026).</cite>"
   }
 ]
