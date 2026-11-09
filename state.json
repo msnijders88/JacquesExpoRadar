@@ -12,10 +12,10 @@
     "description": "De twaalfde editie van de IABR draait om de systemen die ons dagelijks leven mogelijk maken, van water en energie tot wonen en infrastructuur. De tentoonstelling is te bezoeken van 18 september tot en met 29 november 2026 op het voormalige Hunter Douglas-terrein."
   },
   {
-    "title": "Prix de Rome Architectuur 2026",
+    "title": "Worldglimpsing",
     "location": "Nieuwe Instituut, Rotterdam",
     "url": "https://nieuweinstituut.nl/",
-    "description": "<cite index=\"5-5\">Toont de inzendingen van de vier genomineerden voor deze prestigieuze architectuurprijs, vanaf 4 december te zien.</cite>"
+    "description": "Tentoonstelling over de magie van rollenspel en het cre\u00ebren van andere versies van jezelf en de wereld, te zien vanaf 13 december."
   },
   {
     "title": "Geen eigen huis: Wonen in crisis",
@@ -132,10 +132,10 @@
     "description": "Jaarlijkse fototentoonstelling met de meest indrukwekkende persfoto's van het afgelopen jaar, te zien tot en met 27 september 2026."
   },
   {
-    "title": "Lustwarande 2026 \u2013 Material Worlds",
-    "location": "Tilburg",
+    "title": "Mens en Vorm",
+    "location": "Galerie De Kleine Toonzaal, Huizen",
     "url": "https://www.uitzinnig.nl/tentoonstellingsagenda.aspx?page=1",
-    "description": "Internationale sculpturenexpositie tussen de bomen in Tilburg, te zien tot en met 27 september 2026."
+    "description": "Groepsexpositie over de menselijke vorm in de beeldende kunst, te zien van 26 oktober t/m 21 november 2026."
   },
   {
     "title": "Mondriaan & De weg naar abstractie",
@@ -204,21 +204,33 @@
     "description": "<cite index=\"6-3,6-4\">Eens in de twee jaar organiseert de Internationale Architectuur Bi\u00ebnnale Rotterdam (IABR) een tentoonstelling, dit jaar getiteld Systems Of Support, die draait om de systemen die ons dagelijks leven mogelijk maken: van water, energie en materialen tot wonen en infrastructuur.</cite> <cite index=\"6-5\">De tentoonstelling is tussen 18 september en 29 november te bezoeken.</cite>"
   },
   {
-    "title": "The Architect & The Housewife: Cleaning the House, Building the Future",
+    "title": "Vier nieuwe tentoonstellingen: The Architect & The Housewife, Playing House, Nieuw licht 1 & Keramikos Carrier Bag",
     "location": "Groninger Museum, Groningen",
     "url": "https://www.architectuur.nl/nieuws/vier-nieuwe-tentoonstellingen-in-groninger-museum/",
-    "description": "<cite index=\"3-3\">Op vrijdag 18 september opende Groninger Museum een nieuw artistiek hoofdstuk met vier onderling verbonden tentoonstellingen.</cite> <cite index=\"3-4\">Met de nieuwe artistieke koers grijpt het museum terug op drie kernwaarden die in het markante postmoderne gebouw te vinden zijn: collectief, interdisciplinair en experimenteel.</cite>"
+    "description": "Vier onderling verbonden tentoonstellingen die teruggrijpen op de kernwaarden collectief, interdisciplinair en experimenteel van het museum."
   },
   {
-    "title": "Slavs and Tatars: Mouthfool",
-    "location": "Fenix, Rotterdam",
+    "title": "Toren van Babel - Nieuwe Verhalen",
+    "location": "Stedelijk Museum Breda, Breda",
     "url": "https://www.avrotros.nl/longread/4-x-nieuwe-tentoonstelling-in-november-2026~101/",
-    "description": "Nieuwe tentoonstelling bij Fenix Rotterdam. <cite index=\"11-8\">Museum: Fenix, Locatie: Rotterdam, te zien van 19 november 2026 t/m 9 mei 2027.</cite>"
+    "description": "Expositie over taal en verhalen rond de Toren van Babel, te zien van 21 november 2026 t/m 17 mei 2027."
   },
   {
     "title": "Galerie-exposities (actueel overzicht)",
     "location": "Diverse galeries, Nederland",
     "url": "https://www.kunstinzicht.nl/kunst/agenda/index.html",
     "description": "<cite index=\"16-2\">Actuele exposities bij onder meer Galerie Maurits van de Laar (Nour-Eddine Jarram, t/m 15-11-2026) en Galerie DNA (VUES NATURELLES & DE KEUS VAN DNA, t/m 14-11-2026).</cite>"
+  },
+  {
+    "title": "Andr\u00e9 de Jong and His Theater",
+    "location": "The Merchant House, Amsterdam",
+    "url": "https://www.fijnuit.nl/evenementen/november",
+    "description": "Deze galerie-tentoonstelling brengt werk samen van de Nederlandse kunstenaar Andr\u00e9 de Jong, die zich bezighoudt met tekenen, fotografie en performance."
+  },
+  {
+    "title": "PAN Amsterdam 2026",
+    "location": "RAI, Amsterdam",
+    "url": "https://expositiekalender.nl/exposities",
+    "description": "Toonaangevende kunst- en antiekbeurs met galeries uit heel Nederland, lopend van 1 t/m 8 november 2026."
   }
 ]
