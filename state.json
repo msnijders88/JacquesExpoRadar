@@ -12,10 +12,10 @@
     "description": "De twaalfde editie van de IABR draait om de systemen die ons dagelijks leven mogelijk maken, van water en energie tot wonen en infrastructuur. De tentoonstelling is te bezoeken van 18 september tot en met 29 november 2026 op het voormalige Hunter Douglas-terrein."
   },
   {
-    "title": "Worldglimpsing",
+    "title": "Prix de Rome Architectuur 2026",
     "location": "Nieuwe Instituut, Rotterdam",
     "url": "https://nieuweinstituut.nl/",
-    "description": "Tentoonstelling over de magie van rollenspel en het cre\u00ebren van andere versies van jezelf en de wereld, te zien vanaf 13 december."
+    "description": "De tentoonstelling toont de inzendingen van de vier genomineerden voor de prestigieuze architectuurprijs, vanaf 4 december 2026 te zien."
   },
   {
     "title": "Geen eigen huis: Wonen in crisis",
@@ -135,7 +135,7 @@
     "title": "Mens en Vorm",
     "location": "Galerie De Kleine Toonzaal, Huizen",
     "url": "https://www.uitzinnig.nl/tentoonstellingsagenda.aspx?page=1",
-    "description": "Groepsexpositie over de menselijke vorm in de beeldende kunst, te zien van 26 oktober t/m 21 november 2026."
+    "description": "Expositie beeldende kunst in Huizen, te bezichtigen van 26 oktober tot en met 21 november 2026."
   },
   {
     "title": "Mondriaan & De weg naar abstractie",
@@ -204,16 +204,16 @@
     "description": "<cite index=\"6-3,6-4\">Eens in de twee jaar organiseert de Internationale Architectuur Bi\u00ebnnale Rotterdam (IABR) een tentoonstelling, dit jaar getiteld Systems Of Support, die draait om de systemen die ons dagelijks leven mogelijk maken: van water, energie en materialen tot wonen en infrastructuur.</cite> <cite index=\"6-5\">De tentoonstelling is tussen 18 september en 29 november te bezoeken.</cite>"
   },
   {
-    "title": "Vier nieuwe tentoonstellingen: The Architect & The Housewife, Playing House, Nieuw licht 1 & Keramikos Carrier Bag",
+    "title": "The Architect & The Housewife: Cleaning the House, Building the Future",
     "location": "Groninger Museum, Groningen",
     "url": "https://www.architectuur.nl/nieuws/vier-nieuwe-tentoonstellingen-in-groninger-museum/",
-    "description": "Vier onderling verbonden tentoonstellingen die teruggrijpen op de kernwaarden collectief, interdisciplinair en experimenteel van het museum."
+    "description": "Onderdeel van vier nieuw geopende, onderling verbonden tentoonstellingen in het postmoderne Groninger Museum vanaf 18 september 2026."
   },
   {
-    "title": "Toren van Babel - Nieuwe Verhalen",
-    "location": "Stedelijk Museum Breda, Breda",
+    "title": "Richard Price - Vloeibaar meesterschap",
+    "location": "Museum JAN, Amstelveen",
     "url": "https://www.avrotros.nl/longread/4-x-nieuwe-tentoonstelling-in-november-2026~101/",
-    "description": "Expositie over taal en verhalen rond de Toren van Babel, te zien van 21 november 2026 t/m 17 mei 2027."
+    "description": "Overzicht van glaskunstwerken van Richard Price, te bezichtigen van 6 november 2026 tot en met 18 april 2027."
   },
   {
     "title": "Galerie-exposities (actueel overzicht)",
@@ -225,12 +225,24 @@
     "title": "Andr\u00e9 de Jong and His Theater",
     "location": "The Merchant House, Amsterdam",
     "url": "https://www.fijnuit.nl/evenementen/november",
-    "description": "Deze galerie-tentoonstelling brengt werk samen van de Nederlandse kunstenaar Andr\u00e9 de Jong, die zich bezighoudt met tekenen, fotografie en performance."
+    "description": "Galerie voor hedendaagse kunst in een historisch grachtenpand presenteert deze tentoonstelling van 18 november 2026 tot en met 28 februari 2027."
   },
   {
     "title": "PAN Amsterdam 2026",
     "location": "RAI, Amsterdam",
     "url": "https://expositiekalender.nl/exposities",
     "description": "Toonaangevende kunst- en antiekbeurs met galeries uit heel Nederland, lopend van 1 t/m 8 november 2026."
+  },
+  {
+    "title": "Tentoonstelling Amsterdamse Architectuurprijs 2026",
+    "location": "Arcam, Amsterdam",
+    "url": "https://architectenweb.nl/agenda/event.aspx?id=41953",
+    "description": "Arcam presenteert de tien genomineerde gebouwen voor de Amsterdamse Architectuurprijs 2026, te zien van 27 maart tot en met 30 augustus 2026."
+  },
+  {
+    "title": "VUES NATURELLES & De Keus van DNA",
+    "location": "Galerie DNA",
+    "url": "https://www.kunstinzicht.nl/kunst/agenda/g2/Galeries.html",
+    "description": "Groepsexpositie bij Galerie DNA met werk van diverse kunstenaars, te zien tot en met 25 oktober 2026."
   }
 ]
