@@ -18,10 +18,10 @@
     "description": "De tentoonstelling toont de inzendingen van de vier genomineerden voor de prestigieuze architectuurprijs, vanaf 4 december 2026 te zien."
   },
   {
-    "title": "Geen eigen huis: Wonen in crisis",
-    "location": "Museum Het Schip, Amsterdam",
+    "title": "Bright New World. De kracht van verbeelding",
+    "location": "Amsterdam",
     "url": "https://www.iamsterdam.com/uit/tentoonstellingen/tips-deze-maand",
-    "description": "Tentoonstelling over 125 jaar volkshuisvesting in Nederland, met kunst, archiefbeelden en verhalen over de aanhoudende woningcrisis."
+    "description": "Een tentoonstelling waarin de vooruitstrevende toekomstvisies van architecten en kunstenaars van 100 jaar geleden samenkomen met werk van hedendaagse makers, met futuristische architectuur, tekeningen, schilderijen en films."
   },
   {
     "title": "Nationale Archiprix 2026",
@@ -42,10 +42,10 @@
     "description": "Zomerse groepstentoonstelling in een voormalig industrieel pand in Rotterdam met hedendaagse kunst."
   },
   {
-    "title": "Walking Museum",
-    "location": "Groninger Museum, Groningen",
+    "title": "Slavs and Tatars: Mouthfool",
+    "location": "Fenix, Rotterdam",
     "url": "https://www.yourlittleblackbook.me/en/museumagenda-nederland-nieuwe-tentoonstellingen-2026/",
-    "description": "Het museum verplaatst zich naar buiten met fietstochten, een reizende caravan en buitenexpo's door stad en landschap."
+    "description": "Een tentoonstelling die via humor en verrassende kunstwerken laat zien hoe taal verbonden is met identiteit, verhalen, rituelen en mythen. Te zien vanaf 19 november 2026 tot en met 9 mei 2027."
   },
   {
     "title": "Signac \u2013 Symphony of Colours",
@@ -225,7 +225,7 @@
     "title": "Andr\u00e9 de Jong and His Theater",
     "location": "The Merchant House, Amsterdam",
     "url": "https://www.fijnuit.nl/evenementen/november",
-    "description": "Galerie voor hedendaagse kunst in een historisch grachtenpand presenteert deze tentoonstelling van 18 november 2026 tot en met 28 februari 2027."
+    "description": "Deze galerie voor hedendaagse kunst aan de Herengracht presenteert van 18 november 2026 tot en met 28 februari 2027 een overzicht van het werk van Andr\u00e9 de Jong."
   },
   {
     "title": "PAN Amsterdam 2026",
@@ -241,8 +241,26 @@
   },
   {
     "title": "VUES NATURELLES & De Keus van DNA",
-    "location": "Galerie DNA",
+    "location": "Galerie DNA, Amsterdam",
     "url": "https://www.kunstinzicht.nl/kunst/agenda/g2/Galeries.html",
-    "description": "Groepsexpositie bij Galerie DNA met werk van diverse kunstenaars, te zien tot en met 25 oktober 2026."
+    "description": "Galerie DNA presenteert een tentoonstelling die loopt tot 15 november 2026, met werk rond natuurlijke thema's en een selectie uit de galeriecollectie."
+  },
+  {
+    "title": "Architecture Biennale Rotterdam 2026: Systems of Support",
+    "location": "Piekfabriek, Rotterdam",
+    "url": "https://iabr.nl/en",
+    "description": "De 12e editie van de Internationale Architectuur Bi\u00ebnnale Rotterdam draait om de systemen die ons dagelijks leven mogelijk maken, van water en energie tot wonen en infrastructuur. Te zien tot en met 29 november 2026 op het voormalige Hunter Douglas-terrein."
+  },
+  {
+    "title": "Klein, Kleiner, Kleinst",
+    "location": "ABC Architectuurcentrum Haarlem, Haarlem",
+    "url": "https://architectuurhaarlem.nl/manifestaties",
+    "description": "ABC-expositie over compact wonen, te bezichtigen tot en met 31 januari 2027."
+  },
+  {
+    "title": "Double Exposure \u2013 HKU graduates 2026",
+    "location": "Galerie SANAA, Utrecht",
+    "url": "https://www.galeriesanaa.nl/",
+    "description": "Groepstentoonstelling met afstudeerwerk van HKU-studenten, te zien van 12 tot en met 29 november 2026."
   }
 ]
